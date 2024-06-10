@@ -1,0 +1,16 @@
+{
+    "name": "my-back-end",
+    "version": "1.0.0",
+    "description": "Descrição do seu projeto",
+    "main": "server.cjs",
+    "type": "module",
+    "scripts": {
+        "start": "node server.cjs"
+    },
+    "author": "Deive",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1"
+    }
+}
